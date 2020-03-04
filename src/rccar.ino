@@ -5,10 +5,10 @@
  * Date: 2020-02-29
  *
  *  Motor1        Motor3
- *  D0, D1        D2, D3
+ *  D6, D7        D2, D3
  *
  *  Motor1        Motor3
- *  D4, D5        D6, D7
+ *  D5, D4        D1, D0
  */
 #include <blynk.h>
 
